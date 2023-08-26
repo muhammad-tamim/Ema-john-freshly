@@ -1,7 +1,6 @@
 // import React from 'react';
 import './Header.css'
 import logo from '../img/Logo.svg';
-// /src/Logo.svg
 const Header = () => {
     return (
         <div className="nav">
