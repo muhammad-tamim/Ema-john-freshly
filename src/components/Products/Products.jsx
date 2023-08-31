@@ -2,7 +2,7 @@ import React from 'react';
 import './Products.css'
 
 const Products = (props) => {
-    const {name,seller,price,quantity,img,ratings}=props.products;
+    const {name,seller,price,img,ratings}=props.products;
     console.log(props);
     return (
         <div className='product'>

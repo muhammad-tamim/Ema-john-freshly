@@ -3,12 +3,19 @@
     grid-template-columns: 4fr 1fr;
 }
 .products-containar{
-    margin: 50px;
+    margin: 120px 50px 50px 50px;
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 45px;
 }
 .cart-containar{
+    background-color: #FFE0B3;
+    position: fixed;
+    right: 0% ;
+    padding: 10px 6% 100% 20px ;
+    z-index: 0;
+    margin-top: 80px;
+    align-self: start;
 }
 .cart-containar h2{
     text-align: center;
