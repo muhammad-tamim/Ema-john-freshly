@@ -23,7 +23,7 @@ const Shop = () => {
                 }
             </div>
             <div className="cart-containar">
-                <h2>Order Summary</h2>
+                <h2 className='order-title'>Order Summary</h2>
                 <p>Selected Items: 6</p>
                 <p>Total Price: $1140</p>
                 <p>Total Shipping Charge: $5</p>
