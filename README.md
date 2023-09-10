@@ -1,8 +1,14 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Currently, web url are available:
+https://ema-john-freshly.netlify.app/
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+When install visual studio code use this step for ready to work react app.
+
+Open Visual Studio Code ,Click on file menu then go preferences click on setting and type on search setting "format" now enable Format On Paste and Format On Save.
+
+Open Visual Studio Code ,Click on file menu then go preferences click on setting then go extension and go emmet "Include Languages
+additem item = javascript value = javascriptreact"
+
+install this extension "React Extension Pack" in visual studio code.
