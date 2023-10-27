@@ -1,0 +1,16 @@
+import React from 'react';
+
+const Orders = () => {
+    return (
+        <div>
+            <h2>This is from Orders page</h2>
+            <h2>This is from Orders page</h2>
+            <h2>This is from Orders page</h2>
+            <h2>This is from Orders page</h2>
+            <h2>This is from Orders page</h2>
+            <h2>This is from Orders page</h2>
+        </div>
+    );
+};
+
+export default Orders;
